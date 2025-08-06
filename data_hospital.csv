@@ -1,0 +1,11 @@
+patient_id,Name,Age,Department,admission_date,bill,gender,doctor,discharge_date,diagnosis,treatment,insurance,contact_number,address,room_type,payment_status
+P001,viajy,34.0,corona,2025-08-01,2000,M,Dr. Rao,2025-08-05,Flu,Medication,Yes,9999990001,CityA,General,Paid
+P002,aloha,30.0,cardiology,2025-08-02,3500,F,Dr. Singh,2025-08-06,Heart issue,Surgery,No,9999990002,CityB,Private,Unpaid
+P003,john,,orthopedics,2025-08-03,1500,M,Dr. Kumar,2025-08-05,Fracture,Cast,No,9999990003,CityC,General,Paid
+P004,doe,60.0,neurology,2025-08-04,5000,M,Dr. Mehta,2025-08-10,Stroke,Therapy,Yes,9999990004,CityD,ICU,Paid
+P005,eswar,25.0,pediatrics,2025-08-05,1200,M,Dr. Patel,2025-08-06,Fever,Medication,Yes,9999990005,CityE,General,Paid
+P006,,50.0,dermatology,2025-08-06,2200,F,Dr. Reddy,2025-08-08,Allergy,Cream,No,9999990006,CityF,Semi-Private,Unpaid
+P007,lisa,28.0,oncology,2025-08-07,4000,F,Dr. Shah,2025-08-12,Cancer,Chemotherapy,Yes,9999990007,CityG,ICU,Paid
+P008,ram,40.0,ent,2025-08-08,1800,M,Dr. Verma,2025-08-09,Ear infection,Antibiotics,No,9999990008,CityH,General,Paid
+P009,kiran,33.0,urology,2025-08-09,2700,M,Dr. Iyer,2025-08-11,Kidney stone,Surgery,Yes,9999990009,CityI,Private,Unpaid
+P010,sai,45.0,gastroenterology,2025-08-10,3300,M,Dr. Joshi,2025-08-13,Ulcer,Endoscopy,No,9999990010,CityJ,Semi-Private,Paid
